@@ -1,2 +1,4 @@
 # hello-world
-This is my first day learning on Github,just follow the guide line^^
+
+Hi!Grace:
+This is just a test.
